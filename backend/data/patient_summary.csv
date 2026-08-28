@@ -1,0 +1,31 @@
+patient_id,patient_alias,age_years,current_diagnostic_stage,risk_score,priority,trajectory_signal,evidence_confidence,top_contributing_factors,suggested_next_stage,demo_scenario
+ALZ-001,Avery Morgan,83,PET Prioritization,95,High,Worsening,High,longitudinal cognitive decline,Clinician review,Risk rises after biomarker evidence
+ALZ-002,Jordan Lee,86,PET Prioritization,95,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern,Clinician review,Risk rises with longitudinal cognitive decline
+ALZ-003,Riley Chen,85,MRI Evaluation,48,Medium,Improving,High,blood biomarker pattern; MRI-derived feature,Continue current pathway / monitor,Risk decreases after reassuring repeat evidence
+ALZ-004,Casey Patel,75,PET Prioritization,40,Medium,Stable,Low,limited available evidence,Continue current pathway / monitor,Insufficient evidence lowers confidence
+ALZ-005,Taylor Brooks,64,MRI Evaluation,68,Medium,Stable,Moderate,blood biomarker pattern,Continue current pathway / monitor,Stable longitudinal monitoring
+ALZ-006,Morgan Rivera,63,Blood Biomarkers,79,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern,MRI Evaluation,MRI evidence refines priority
+ALZ-007,Cameron Shah,68,MRI Evaluation,83,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern,PET Prioritization,Risk rises after biomarker evidence
+ALZ-008,Quinn Davis,86,PET Prioritization,78,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern,Clinician review,Risk rises with longitudinal cognitive decline
+ALZ-009,Reese Kim,66,PET Prioritization,66,Medium,Improving,High,current cognitive screening evidence,Continue current pathway / monitor,Risk decreases after reassuring repeat evidence
+ALZ-010,Parker Singh,79,Blood Biomarkers,72,High,Stable,Low,limited available evidence,MRI Evaluation,Insufficient evidence lowers confidence
+ALZ-011,Skyler Jones,62,MRI Evaluation,77,High,Stable,High,current cognitive screening evidence,PET Prioritization,Stable longitudinal monitoring
+ALZ-012,Alexis Martin,84,Blood Biomarkers,70,High,Worsening,High,longitudinal cognitive decline,MRI Evaluation,MRI evidence refines priority
+ALZ-013,Drew Wilson,75,PET Prioritization,95,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern; MRI-derived feature,Clinician review,Risk rises after biomarker evidence
+ALZ-014,Hayden Clark,63,Blood Biomarkers,59,Medium,Worsening,High,longitudinal cognitive decline,Continue current pathway / monitor,Risk rises with longitudinal cognitive decline
+ALZ-015,Rowan Garcia,77,MRI Evaluation,61,Medium,Improving,Moderate,blood biomarker pattern,Continue current pathway / monitor,Risk decreases after reassuring repeat evidence
+ALZ-016,Emerson Brown,86,MRI Evaluation,76,High,Stable,Low,limited available evidence,PET Prioritization,Insufficient evidence lowers confidence
+ALZ-017,Finley Moore,81,MRI Evaluation,48,Medium,Stable,High,current cognitive screening evidence,Continue current pathway / monitor,Stable longitudinal monitoring
+ALZ-018,Blake Anderson,76,PET Prioritization,89,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern,Clinician review,MRI evidence refines priority
+ALZ-019,Sage Thomas,64,Blood Biomarkers,55,Medium,Worsening,High,longitudinal cognitive decline; blood biomarker pattern; MRI-derived feature,Continue current pathway / monitor,Risk rises after biomarker evidence
+ALZ-020,Kendall White,70,Blood Biomarkers,84,High,Worsening,Moderate,longitudinal cognitive decline; blood biomarker pattern,MRI Evaluation,Risk rises with longitudinal cognitive decline
+ALZ-021,Dakota Harris,81,MRI Evaluation,43,Medium,Improving,High,current cognitive screening evidence,Continue current pathway / monitor,Risk decreases after reassuring repeat evidence
+ALZ-022,Ari Walker,86,PET Prioritization,31,Low,Stable,Low,limited available evidence,Continue routine pathway,Insufficient evidence lowers confidence
+ALZ-023,Milan Young,62,Blood Biomarkers,95,High,Stable,High,current cognitive screening evidence,MRI Evaluation,Stable longitudinal monitoring
+ALZ-024,Noel King,69,PET Prioritization,93,High,Worsening,High,longitudinal cognitive decline; blood biomarker pattern; MRI-derived feature,Clinician review,MRI evidence refines priority
+ALZ-025,River Scott,85,Blood Biomarkers,67,Medium,Worsening,Moderate,longitudinal cognitive decline; blood biomarker pattern,Continue current pathway / monitor,Risk rises after biomarker evidence
+ALZ-026,Jules Green,77,PET Prioritization,56,Medium,Worsening,High,longitudinal cognitive decline,Continue current pathway / monitor,Risk rises with longitudinal cognitive decline
+ALZ-027,Micah Baker,79,MRI Evaluation,76,High,Improving,High,current cognitive screening evidence,PET Prioritization,Risk decreases after reassuring repeat evidence
+ALZ-028,Remy Adams,78,MRI Evaluation,46,Medium,Stable,Low,limited available evidence,Continue current pathway / monitor,Insufficient evidence lowers confidence
+ALZ-029,Elliot Hall,75,PET Prioritization,76,High,Stable,High,MRI-derived feature,Clinician review,Stable longitudinal monitoring
+ALZ-030,Sam Taylor,78,PET Prioritization,95,High,Worsening,High,blood biomarker pattern; MRI-derived feature,Clinician review,MRI evidence refines priority
