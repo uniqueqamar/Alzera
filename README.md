@@ -124,7 +124,7 @@ Alzera/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Tannuuuu/Alzera.git
+git clone https://github.com/uniqueqamar/Alzera.git
 cd Alzera
 
 ```
