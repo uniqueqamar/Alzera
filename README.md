@@ -10,7 +10,7 @@ ALZERA is a clinical decision-support proof of concept designed to help clinicia
 
 ---
 ## Video Demo
-https://github.com/uniqueqamar/Alzera/issues/1#issue-6058863299
+[https://github.com/uniqueqamar/Alzera/issues/1#issue-6058863299](https://github.com/user-attachments/assets/634a7efe-1be2-4d31-9044-488a2d2380e3)
 
 ## Overview
 
