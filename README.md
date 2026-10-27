@@ -9,6 +9,8 @@ ALZERA is a clinical decision-support proof of concept designed to help clinicia
 > **Clinical Disclaimer:** ALZERA is a decision-support prototype. It **does not** diagnose Alzheimer's disease, prescribe treatment, or replace clinical judgment. The current demonstration relies entirely on synthetic patient data.
 
 ---
+## Video Demo
+https://github.com/uniqueqamar/Alzera/issues/1#issue-6058863299
 
 ## Overview
 
@@ -199,6 +201,4 @@ ALZERA is strictly an **experimental research prototype** and **not a medical de
 
 ---
 
-## License
 
-This project is provided for research and development purposes. See the repository root for licensing details.
